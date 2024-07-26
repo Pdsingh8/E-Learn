@@ -1,0 +1,67 @@
+export const courses = [
+  {
+    id: 1,
+    title: 'React for Beginners',
+    description: 'A comprehensive guide to get started with React, including components, hooks, and state management.',
+    instructor: 'Peter Parker',
+    rating: 4.5,
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3v4uCT03vPAlSVwk0WptVzST-dL-o7W-8-w&s',
+    youtubeUrl:"https://youtu.be/FxgM9k1rg0Q?si=EcFWtQU8tp_tHRlz"
+  },
+  {
+    id: 2,
+    title: 'Advanced JavaScript',
+    description: 'In-depth exploration of JavaScript concepts including closures, async programming, and ES6+ features.',
+    instructor: 'Dwayne Johnson',
+    rating: 4.8,
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCyQuhLllykB9orczQ880UUbIwhDQH8dnLsw&s',
+  },
+  {
+    id: 3,
+    title: 'HTML & CSS Mastery',
+    description: 'Become proficient in HTML and CSS for web development.',
+    instructor: 'Mary Johnson',
+    rating: 4.7,
+    image:"https://camo.githubusercontent.com/3795e5487dfe7c70b09b3e40c9d7a170bbb61aaec2b8bc35a2b4d0b5af1205ca/68747470733a2f2f7777772e69696d2e66722f65636f6c652d7765622f77702d636f6e74656e742f75706c6f6164732f323031372f30312f48544d4c352e6a7067"
+  },
+  {
+    id: 4,
+    title: 'Python for Data Science',
+    description: 'Learn Python programming for data science applications.',
+    instructor: 'Michael Brown',
+    rating: 4.9,
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU3kk0StnfvySyeqba1grM6yJKS5UkrYmLSQ&s',
+  },
+  {
+    id: 5,
+    title: 'Full-Stack Web Development',
+    description: 'Become a full-stack web developer with this comprehensive course.',
+    instructor: 'Emily Davis',
+    rating: 4.6,
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1YvBHzAUpQgCRp2z4ikuf8YWOTrYNGcDrSg&s',
+  },
+  {
+    id: 6,
+    title: 'Machine Learning Basics',
+    description: 'An introduction to machine learning concepts and techniques.',
+    instructor: 'Alex Turner',
+    rating: 4.4,
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSrV5bjNnKJf3rK81Iw8WEXlHnkMUCPu_cEg&s',
+  },
+  {
+    id: 7,
+    title: 'Data Visualization with D3.js',
+    description: 'Learn how to create dynamic and interactive data visualizations using D3.js.',
+    instructor: 'Sophia Green',
+    rating: 4.7,
+    image: 'https://www.edubridgeindia.com/blog/wp-content/uploads/2022/02/data-visualization-scaled.jpg',
+  },
+  {
+    id: 8,
+    title: 'Introduction to DevOps',
+    description: 'Understand the principles and practices of DevOps to improve development and operations.',
+    instructor: 'Daniel Lee',
+    rating: 4.6,
+    image: 'https://example.com/devops-course-image.png', 
+  },
+];
